@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ArnavIsShukla
-- 👀 I’m interested in GameDev
-- 🌱 I’m currently learning Unity and c#
-- 📫 How to reach me ...
+- 👀 I’m interested in Java Applications
+- 🌱 I’m currently learning Advanced Java
 
 <!---
 ArnavIsShukla/ArnavIsShukla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
